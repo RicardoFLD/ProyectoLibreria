@@ -52,10 +52,6 @@
                                         <h5 class="card-title" style="font-size: medium">Titulo:  <%# Eval("Titulo") %></h5>
                                         <p style="font-size: small" class="card-text">Precio por unidad:  ₡<%# Eval("MontoUnidad") %></p>
                                         <p style="font-size: small" class="card-text">Cantidad de libros:  <%# Eval("Cantidadlibros") %></p>
-                                        <p style="font-size: small" class="card-text">Fecha de la compra:  <%# Eval("Fechacompra") %></p>
-                                        <p style="font-size: small" class="card-text">Fecha de llegada de la compra:  <%# Eval("Fechallegadacompra") %></p>
-                                        <p style="font-size: small" class="card-text">Monto Sin IVA:  ₡<%# Eval("MontosinIVA") %></p>
-                                        <p style="font-size: small" class="card-text">Monto Con IVA:  ₡<%# Eval("MontoIVA") %></p>
                                         <p style="font-size: small" class="card-text">Monto total:  ₡<%# Eval("Montofinal") %></p>
                                 </div>
                                     </div>
@@ -64,19 +60,12 @@
                                         <div  class="card-body" ">
                                         <h5 class="card-title" style="font-size: medium">Datos de la compra: </h5>
                                         <p style="font-size: small" class="card-text">Cliente:  <%# Eval("Nombre") %></p>
-                                        <p style="font-size: small" class="card-text">Pais:  <%# Eval("Pais") %></p>
-                                        <p style="font-size: small" class="card-text">Estado:  <%# Eval("Estado") %></p>
                                         <p style="font-size: small" class="card-text">Direccion de entrega:  <%# Eval("Direccionentrega") %></p>
                                         <p style="font-size: small" class="card-text">Codigo postal:  <%# Eval("Codigopostal") %></p>
-
-                                        
                                     </div>
                                     </div>
                         </div>
-                               
-                                      
                         </div>
-
                     </ItemTemplate>
                 </asp:Repeater>
             </div>
@@ -84,13 +73,13 @@
         </div>
     </form>
      <style>
-        body {
-            background-size: 20%;
-            background-image: url("https://previews.123rf.com/images/zinako/zinako1708/zinako170800763/85385162-diversi%C3%B3n-de-patrones-sin-fisuras-con-libros-de-dibujos-animados-se-puede-utilizar-para-fondo-de-pan.jpg");
-            width: 100vw;
-            height: 100vh;
-            position: absolute;
-        }
+         body {
+             background-size: 20%;
+             background-image: url("https://previews.123rf.com/images/zinako/zinako1708/zinako170800763/85385162-diversi%C3%B3n-de-patrones-sin-fisuras-con-libros-de-dibujos-animados-se-puede-utilizar-para-fondo-de-pan.jpg");
+             width: 100vw;
+             height: 100vh;
+             position: absolute;
+         }
     </style>
 </body>
 </html>

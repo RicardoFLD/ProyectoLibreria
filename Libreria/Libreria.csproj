@@ -181,26 +181,12 @@
     <Compile Include="Views\Carrito.aspx.designer.cs">
       <DependentUpon>Carrito.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Views\Compra.aspx.cs">
-      <DependentUpon>Compra.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\Compra.aspx.designer.cs">
-      <DependentUpon>Compra.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Views\Compras.aspx.cs">
       <DependentUpon>Compras.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Views\Compras.aspx.designer.cs">
       <DependentUpon>Compras.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\EliminarCarrito.aspx.cs">
-      <DependentUpon>EliminarCarrito.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\EliminarCarrito.aspx.designer.cs">
-      <DependentUpon>EliminarCarrito.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\Favoritos.aspx.cs">
       <DependentUpon>Favoritos.aspx</DependentUpon>
@@ -278,9 +264,7 @@
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Views\Books.aspx" />
     <Content Include="Views\Carrito.aspx" />
-    <Content Include="Views\Compra.aspx" />
     <Content Include="Views\Compras.aspx" />
-    <Content Include="Views\EliminarCarrito.aspx" />
     <Content Include="Views\Favoritos.aspx" />
     <Content Include="Views\GuardarCarrito.aspx" />
     <Content Include="Views\GuardarFav.aspx" />
