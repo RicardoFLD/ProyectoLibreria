@@ -1,2 +1,4 @@
 C:\Users\PRINCIPAL\Documents\Cosas de la U\La Castro\Progra 3 c#\Proyecto_1\Nueva carpeta\Libreria\Libreria\obj\Debug\Libreria.csproj.AssemblyReference.cache
 C:\Users\PRINCIPAL\Documents\Cosas de la U\La Castro\Progra 3 c#\Proyecto_1\Nueva carpeta\Libreria\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\PRINCIPAL\Documents\Cosas de la U\La Castro\Progra 3 c#\Proyecto_2\Nueva carpeta\ProyectoLibreria\Libreria\obj\Debug\Libreria.csproj.AssemblyReference.cache
+C:\Users\PRINCIPAL\Documents\Cosas de la U\La Castro\Progra 3 c#\Proyecto_2\Nueva carpeta\ProyectoLibreria\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache

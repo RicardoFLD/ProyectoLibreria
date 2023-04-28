@@ -68,15 +68,6 @@
         </div>
         </div>
     </form>
-    <style>
-        body {
-            background-size: 20%;
-            background-image: url("https://previews.123rf.com/images/zinako/zinako1708/zinako170800763/85385162-diversi%C3%B3n-de-patrones-sin-fisuras-con-libros-de-dibujos-animados-se-puede-utilizar-para-fondo-de-pan.jpg");
-            width: 100vw;
-            height: 100vh;
-            position: absolute;
-        }
-    </style>
 </body>
 
 </html>
